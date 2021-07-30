@@ -7,4 +7,4 @@ This application is an example of using Javascript for DOM manipulation and Map 
 Simply press the button and watch it go to work!
 
 ## Future Roadmap
-The goal for the future is to continually work on the effects until I can achieve extremeley realistic results.
+The goal for the future is to continually work on the effects until I can achieve extremely realistic results.
