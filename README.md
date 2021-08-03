@@ -9,7 +9,7 @@ Simply press the button and watch it go to work!
 ## Future Roadmap
 The goal for the future is to continually work on the effects until I can achieve extremely realistic results.
 
-##License
+## License
 MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
